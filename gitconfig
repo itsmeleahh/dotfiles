@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = leahlai49@gmail.com
+	name = leahlai
